@@ -15,8 +15,9 @@
 </p>
 
 ## About The Project
-This application is an example of an expert system that detects failures in computer hardware based on answers to questions.
-
+In this project, the data from the DHT11 sensor will be displayed on the LCD screen.
+You can navigate in the menu by turning the Potentiometer on the left and you can go to the selected page in the menu by pressing the button on the right. Values ​​can be changed by turning the Potentiometer on the update page. When we reach the desired value, we can save it to EEPROM by pressing the right button or exit the update page without saving by pressing the left button.
+If the value read from the sensor exceeds the limit value we have determined, the red LED will light and the buzzer will sound. If this does not happen, the green LED lights up.
 
 
 ### Built With
